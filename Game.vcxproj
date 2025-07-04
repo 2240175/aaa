@@ -162,7 +162,9 @@
     <ClInclude Include="Source\System\Sprite.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="CameraController.cpp" />
+    <ClCompile Include="..\..\Desktop\ゲームプログラミングⅢ　本家\ゲームプログラミングⅢ(配布)\CameraController.cpp" />
+    <ClCompile Include="..\..\Desktop\ゲームプログラミングⅢ　本家\ゲームプログラミングⅢ(配布)\Enemy.cpp" />
+    <ClCompile Include="..\..\Desktop\ゲームプログラミングⅢ　本家\ゲームプログラミングⅢ(配布)\Source\EnemySlime.cpp" />
     <ClCompile Include="External\imgui-docking\imgui.cpp" />
     <ClCompile Include="External\imgui-docking\imgui_demo.cpp" />
     <ClCompile Include="External\imgui-docking\imgui_draw.cpp" />
@@ -173,7 +175,6 @@
     <ClCompile Include="Source\Character.cpp" />
     <ClCompile Include="Source\Collision.cpp" />
     <ClCompile Include="Source\EnemyManager.cpp" />
-    <ClCompile Include="Source\EnemySlime.cpp" />
     <ClCompile Include="Source\Framework.cpp" />
     <ClCompile Include="Source\Main.cpp" />
     <ClCompile Include="Source\MathUtils.cpp" />
@@ -204,7 +205,6 @@
     <ClCompile Include="Source\System\RenderState.cpp" />
     <ClCompile Include="Source\System\ShapeRenderer.cpp" />
     <ClCompile Include="Source\System\Sprite.cpp" />
-    <ClCompile Include="Enemy.cpp" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Shader\Basic.hlsli" />
