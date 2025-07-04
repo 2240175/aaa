@@ -258,9 +258,6 @@
     <ClCompile Include="Source\Camera.cpp">
       <Filter>Source</Filter>
     </ClCompile>
-    <ClCompile Include="CameraController.cpp">
-      <Filter>Source</Filter>
-    </ClCompile>
     <ClCompile Include="Source\EnemyManager.cpp">
       <Filter>Source</Filter>
     </ClCompile>
@@ -282,9 +279,6 @@
     <ClCompile Include="Source\ProjectileHoming.cpp">
       <Filter>Source</Filter>
     </ClCompile>
-    <ClCompile Include="Enemy.cpp">
-      <Filter>Source</Filter>
-    </ClCompile>
     <ClCompile Include="Source\SceneTitle.cpp">
       <Filter>Source</Filter>
     </ClCompile>
@@ -295,6 +289,12 @@
       <Filter>Source</Filter>
     </ClCompile>
     <ClCompile Include="Source\MathUtils.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Desktop\ゲームプログラミングⅢ　本家\ゲームプログラミングⅢ(配布)\CameraController.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Desktop\ゲームプログラミングⅢ　本家\ゲームプログラミングⅢ(配布)\Enemy.cpp">
       <Filter>Source</Filter>
     </ClCompile>
   </ItemGroup>
