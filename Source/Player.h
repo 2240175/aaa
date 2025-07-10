@@ -21,7 +21,12 @@ public:
 
 	void DrawDebugGUI();
 
-	
+	//インスタンス取得
+	static Player& Instance()
+	{
+		static Player instance;
+		return instance;
+	}
 	
 
 	//ジャンプ入力処理
