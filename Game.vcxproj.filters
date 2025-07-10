@@ -291,12 +291,6 @@
     <ClCompile Include="Source\MathUtils.cpp">
       <Filter>Source</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\Desktop\ゲームプログラミングⅢ　本家\ゲームプログラミングⅢ(配布)\CameraController.cpp">
-      <Filter>Source</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\Desktop\ゲームプログラミングⅢ　本家\ゲームプログラミングⅢ(配布)\Enemy.cpp">
-      <Filter>Source</Filter>
-    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="Shader\Sprite.hlsli">
